@@ -1,0 +1,16 @@
+langchain>=0.2.0
+langgraph>=0.0.33
+faiss-cpu
+openai
+tiktoken
+fastapi
+uvicorn
+gradio
+unstructured
+pymupdf
+ollama
+pygithub
+torch
+python-dotenv
+httpx
+requests
